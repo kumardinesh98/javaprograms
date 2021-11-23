@@ -1,6 +1,6 @@
 public class Employecase1 {
-	innt 
-		float
+	innt a=234
+		float valu=2334
 	public static void main (String[]  args) {
 		int is_present = 1;
 		int per_day_wage=20;
@@ -10,10 +10,10 @@ public class Employecase1 {
 		System.out.println(attendance);
 		
 
-hello world
-git process
-main branch
-branch
+hello world opn
+git process opn
+main branch opn
+branch opn
 
 
 
